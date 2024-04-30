@@ -1,0 +1,13 @@
+<template>
+    <lightning-card title="Opportunity Details" icon-name="standard:avatar">
+        <template if:true={opportunitydetails}>
+            <p>Opportunity Date: {opportunitydetails.oppDate}</p>
+            <p>Sales Agent: {opportunitydetails.SalesAgent}</p>
+            <p>Stage: {opportunitydetails.Stage}</p>
+            <p>Close Date: {opportunitydetails.CloseDate}</p>
+        </template>
+    </lightning-card>
+    <lightning-card>
+        <c-opportunityproductsdatatable products={products}></c-opportunityproductsdatatable>
+    </lightning-card>
+</template>
