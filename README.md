@@ -28,8 +28,8 @@ To set up and deploy the Salesforce project, follow these instructions:
 4. Testing: Perform thorough testing to ensure that the implemented features meet the project objectives and function as expected.
 
 
-For further inquiries or assistance, please contact:
-Jean Michel Moukarzel
-jeanmichel.mkarzel@gmail.com
+For further inquiries or assistance, please contact: <br>
+Jean Michel Moukarzel <br>
+jeanmichel.mkarzel@gmail.com <br>
 +961 71 911 400
 
